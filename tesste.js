@@ -1,0 +1,10 @@
+console.log('HELLO WORLD!');
+console.log(123456789);
+console.log('Suana'); x=8+9;
+console.log(x);
+y=81;
+z=9;
+t=y+z;
+console.log(t);
+console.log("o resultado da soma é",t);
+console.log("o outro resultado da soma é",x);
